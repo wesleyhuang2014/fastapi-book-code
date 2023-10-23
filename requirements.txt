@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpie
+requests
+httpx
+mypy
+black
+pytest
